@@ -162,6 +162,13 @@ export function LoginScreen() {
                 A recuperação de senha ainda não está disponível.
               </Text>
             )}
+            <Pressable
+              accessibilityRole="button"
+              onPress={() => router.push('/signup')}
+              style={styles.recovery}
+            >
+              <Text style={styles.recoveryText}>Criar conta</Text>
+            </Pressable>
           </View>
         </ScrollView>
       </KeyboardAvoidingView>

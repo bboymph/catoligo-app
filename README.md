@@ -3,8 +3,10 @@
 Aplicativo React Native com Expo, Expo Router e TypeScript.
 A cor primária do projeto é `#F8BD2A`.
 
-O aplicativo abre na tela de login. O botão **Entrar** leva à tela Home sem
-validar as credenciais: a autenticação ainda não foi implementada. A opção
+O aplicativo abre na tela de login, que autentica as credenciais pela API.
+Em **Criar conta**, informe nome, e-mail válido e uma senha de pelo menos seis
+caracteres, confirmando-a para concluir o cadastro. Após a confirmação de
+sucesso, faça login com a nova conta. A opção
 **Esqueci minha senha** informa que a recuperação ainda não está disponível.
 Após o login, o dashboard apresenta quatro notícias fictícias com ilustrações
 locais. A pesquisa filtra títulos e descrições. As abas Eventos e
