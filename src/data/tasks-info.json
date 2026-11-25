@@ -1,0 +1,28 @@
+{
+  "tasks": {
+    "rosary": {
+      "Title": "Santo Rosário",
+      "Description": "Reze o Santo Rosário diariamente para fortalecer sua fé.",
+      "Frequency": "Diariamente",
+      "details": "1. Primeiro Mistério\n2. Segundo Mistério\n3. Terceiro Mistério\n4. Quarto Mistério\n5. Quinto Mistério"
+    },
+    "chapel-adoration": {
+      "Title": "Adoração na capela",
+      "Description": "Reserve um tempo de silêncio diante do Santíssimo Sacramento.",
+      "Frequency": "Semanalmente",
+      "details": "1. Chegue em silêncio e faça uma genuflexão\n2. Faça um momento de oração pessoal\n3. Apresente a Jesus suas intenções\n4. Agradeça antes de sair"
+    },
+    "mass": {
+      "Title": "Missa",
+      "Description": "Participe da celebração da Eucaristia em sua comunidade.",
+      "Frequency": "Diariamente",
+      "details": "1. Ritos iniciais\n2. Liturgia da Palavra\n3. Liturgia Eucarística\n4. Ritos finais"
+    },
+    "lectio-divina": {
+      "Title": "Lectio Divina",
+      "Description": "Leia, medite, ore e contemple a Palavra de Deus.",
+      "Frequency": "Diariamente",
+      "details": "1. Lectio (leitura)\n2. Meditatio (meditação)\n3. Oratio (oração)\n4. Contemplatio (contemplação)"
+    }
+  }
+}
